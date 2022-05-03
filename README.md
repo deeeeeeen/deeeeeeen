@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeeeeeen&label=Profile%20views&color=0e75b6&style=flat" alt="deeeeeeen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeeeeeen" alt="deeeeeeen" /></a> </p>
-
 - 🔭 I’m currently working on **comeDiCloud**
 
 <h3 align="left">Languages and Tools:</h3>
